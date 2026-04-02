@@ -36,6 +36,6 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIOGIT&theme=tokyonight" alt="Perfil do Git Hub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diassophia&theme=tokyonight" alt="Perfil do Git Hub" /></p>
 
 ![Snake animation](https://github.com/diassophia/diassophia/blob/output/github-contribution-grid-snake-dark.svg)
